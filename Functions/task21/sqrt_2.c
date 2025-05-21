@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int my_sqrt(int x){
+int my_sqrt_2(int x){
 	if(x < 2){
 		return x;
 	}
@@ -21,5 +21,5 @@ int my_sqrt(int x){
 			right = mid - 1;
 		}
 	}
-	return -1;
+	return right;
 }
