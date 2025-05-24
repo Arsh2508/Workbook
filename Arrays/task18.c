@@ -28,6 +28,8 @@ int main()
 	}
 
 	printf("Yes!\n");
+
+	free(arr);
 	return 0;
 }
 
