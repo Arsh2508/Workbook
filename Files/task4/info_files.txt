@@ -1,0 +1,4 @@
+Files are the silent historians of a computer system.
+Every saved document, every compiled program, every log entry—they all live as files, tucked away in the depths of storage. 
+Some hold memories, like photos and journals; others hold secrets, like passwords and encrypted data.
+Whether text or binary, visible or hidden, files quietly shape the digital world, preserving every action, every thought, one byte at a time.
